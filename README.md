@@ -16,3 +16,5 @@
   <img align="center" alt="GlenanCastilho-Flutter" height="30" width="60" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   
   ##
+
+  ![Snake animation](https://github.com/GlenanCastilho/GlenanCastilho/blob/output/github-contribution-grid-snake.svg)
