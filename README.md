@@ -4,8 +4,8 @@ Olá eu sou o Glenan Castilho!
 
 <div align="center">
   <a href="https://github.com/GlenanCastilho">
-  <img height="180em" src="https://github-readme-stats.codestackr.vercel.app/api?username=GlenanCastilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=GlenanCastilho&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-pi-olive.vercel.app/api?username=GlenanCastilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-pi-olive.vercel.app/api/top-langs/?username=GlenanCastilho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block", align="center"><br>
