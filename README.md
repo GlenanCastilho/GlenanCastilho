@@ -1,5 +1,6 @@
 Olá eu sou o Glenan Castilho! 
 
+1.5 ano como desenvolvedor full stack sempre buscando me aprofundar e evoluir nas tecnologias que já possuo domínio, como também sempre de olho em novas tecnologias do mercado afim de estar preparado para novas tendências.
  ##
 
 <div align="center">
