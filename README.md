@@ -1,6 +1,12 @@
 Olá eu sou o Glenan Castilho! 
 
-1.5 ano como desenvolvedor full stack sempre buscando me aprofundar e evoluir nas tecnologias que já possuo domínio, como também sempre de olho em novas tecnologias do mercado afim de estar preparado para novas tendências.
+🙋‍♂️ 1.5 ano como desenvolvedor full stack sempre buscando me aprofundar e evoluir nas tecnologias que já possuo domínio, como também sempre de olho em novas tecnologias do mercado afim de estar preparado e capacitado para novas tendências.
+
+👨‍💻 Em Front-end possuo experiência com HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS e Angular, utilizo bibliotecas e pré-processadores como Chakra UI, TailwindCSS,
+SASS e Styled Components. Criação de telas a partir de layouts do Figma e Adobe XD, Manutenção e correção de bugs de páginas e aplicações.
+
+💻 Em Back-end possuo experiência com Node.js utilizando Express e Typescript. Utilização de bancos de dados como Postgress, MongoDB, MariaDB e Redis. Conhecimento em
+ferramentas e conceitos como Insomnia, Postman, Docker, TypeORM, JWT e bcrypt. Uso de arquitetura limpa seguindo padrões de código e princípios do SOLID, testes automatizados com Jest e supertest.
  ##
 
 <div align="center">
